@@ -8,7 +8,6 @@ public class HelloWorld {
         // input from standard input - keyboard
         Scanner reader = new Scanner(System.in);
         System.out.print("Enter a number: ");
-//Testing
 
         // nextInt() reads the next integer from the keyboard
         int number = reader.nextInt();
